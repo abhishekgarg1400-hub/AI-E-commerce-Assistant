@@ -1,0 +1,10 @@
+{
+  "name": "ai-e-commerce-assistant",
+  "version": "1.0.0",
+  "description": "LuxeMart AI E-commerce Assistant",
+  "main": "index.html",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site ready for deployment'"
+  }
+}
